@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+DBP_wiki_data.csv
+GLOVE/
+embedding_matrix.h5
+model
+name_category.h5
+newsgroups/
+word_nparray.h5
